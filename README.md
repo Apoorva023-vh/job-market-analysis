@@ -1,4 +1,4 @@
-# 📊 Job Market Analysis — Data Science Industry (2024)
+# 📊 Job Market Analysis — Data Science Industry (2025)
 
 ## Overview
 
